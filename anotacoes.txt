@@ -1,1 +1,3 @@
 Mexer com Git é difícil
+
+Efetuei uma alteração após ir para versão anterior
